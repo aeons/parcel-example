@@ -1,0 +1,21 @@
+{
+  "name": "parcel-example",
+  "bs-dependencies": [],
+  "bsc-flags": ["-bs-super-errors"],
+  "package-specs": {
+    "in-source": true,
+    "module": "commonjs"
+  },
+  "reason": {
+    "react-jsx": 2
+  },
+  "refmt": 3,
+  "sources": {
+    "dir": "src",
+    "subdirs": true
+  },
+  "suffix": ".bs.js",
+  "warnings": {
+    "error": "+101"
+  }
+}
